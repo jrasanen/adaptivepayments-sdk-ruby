@@ -16,4 +16,4 @@ group :test do
   gem 'rspec'
 end
 
-gem 'nokogiri', '~> 1.5.9', :platform => :mri_18
+gem 'nokogiri', '~> 1.6.7', :platform => :mri_18
